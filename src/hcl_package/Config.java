@@ -3,9 +3,6 @@ package hcl_package;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.Arrays;
-
-import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;
 
 import com.beust.jcommander.JCommander;
